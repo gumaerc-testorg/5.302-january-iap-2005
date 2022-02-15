@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2ab967d5-ea72-3c29-d6fa-b79255203346
 ---
@@ -59,7 +61,7 @@ Tollen's Test for Aldehydes and Ketones (a.k.a. The Silver Mirror)
 
 The Copper Mirror
 
-Oxidation States of Vanadium: Reduction of V5+ to V2+
+Oxidation States of Vanadium: Reduction of V{{< sup "5+" >}} to V{{< sup "2+" >}}
 
 Corrosion
 
