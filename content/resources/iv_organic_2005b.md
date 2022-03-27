@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 7d382d92-561f-34c2-84d0-5daa5012ca10
 resourcetype: Document
 title: 'IV. Organic Chemistry: Compounds with Interesting Properties'
 uid: 2292f8db-06dc-2590-4583-71b07627a568

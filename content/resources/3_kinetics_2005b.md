@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 7d382d92-561f-34c2-84d0-5daa5012ca10
 resourcetype: Document
 title: III. Chemical Kinetics
 uid: a9f73164-65f3-0d02-a9e5-a59d2a1052d0

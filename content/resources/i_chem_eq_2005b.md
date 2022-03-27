@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 7d382d92-561f-34c2-84d0-5daa5012ca10
 resourcetype: Document
 title: I. Chemical Equilibrium
 uid: 0c5fa5f9-5f3d-a5da-a34f-f0281a107524
