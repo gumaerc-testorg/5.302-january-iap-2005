@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of general chemistry and introductory
+  organic chemistry textbooks.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

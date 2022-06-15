@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provide the laboratory assignments for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -16,13 +17,13 @@ The experiments described in these materials are potentially hazardous and requi
 Laboratory Files
 ----------------
 
-Lab 1 - Chemical Equilibrium ([PDF]({{< baseurl >}}/resources/i_chem_eq_2005b))
+Lab 1 - Chemical Equilibrium ({{% resource_link 0c5fa5f9-5f3d-a5da-a34f-f0281a107524 "PDF" %}})
 
-Lab 2 - Redox Chemistry ([PDF]({{< baseurl >}}/resources/ii_redox_chem_2005b))
+Lab 2 - Redox Chemistry ({{% resource_link d4bfdb9f-0c1f-48d0-23ce-22843af915ea "PDF" %}})
 
-Lab 3 - Chemical Kinetics ([PDF]({{< baseurl >}}/resources/3_kinetics_2005b))
+Lab 3 - Chemical Kinetics ({{% resource_link a9f73164-65f3-0d02-a9e5-a59d2a1052d0 "PDF" %}})
 
-Lab 4 - Organic Chemistry: Compounds with Interesting Properties ([PDF]({{< baseurl >}}/resources/iv_organic_2005b))
+Lab 4 - Organic Chemistry: Compounds with Interesting Properties ({{% resource_link 2292f8db-06dc-2590-4583-71b07627a568 "PDF" %}})
 
 Acknowledgements
 ----------------
