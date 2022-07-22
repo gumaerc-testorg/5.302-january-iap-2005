@@ -5,6 +5,7 @@ file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/229
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'IV. Organic Chemistry: Compounds with Interesting Properties'
 uid: 2292f8db-06dc-2590-4583-71b07627a568
 ---
 Laboratory assignment on organic chemistry, polymers, and dyes.
-

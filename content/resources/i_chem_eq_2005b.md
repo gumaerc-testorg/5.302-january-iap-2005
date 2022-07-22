@@ -7,6 +7,7 @@ file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/0c5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: I. Chemical Equilibrium
 uid: 0c5fa5f9-5f3d-a5da-a34f-f0281a107524
 ---
 Laboratory experiment on chemical equilibrium, coordination chemistry, solubility equilibrium, equilibrium and temperature, and application of solubility and formation equilibria.
-

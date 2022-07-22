@@ -5,6 +5,7 @@ file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/a9f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: III. Chemical Kinetics
 uid: a9f73164-65f3-0d02-a9e5-a59d2a1052d0
 ---
 Laboratory experiment on chemical kinetics and the iodine clock reaction.
-
