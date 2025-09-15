@@ -2,10 +2,11 @@
 content_type: resource
 description: Laboratory experiment on Tollen's Test for aldehydes and ketones, a copper
   mirror, oxidation states of vanadium, corrosion, and cyanotypes.
-file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/d4bfdb9f0c1f48d023ce22843af915ea_II_Redox_chem_2005b.pdf
+file: /ol-ocw-studio-app/courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/d4bfdb9f0c1f48d023ce22843af915ea_II_Redox_chem_2005b.pdf
+file_size: 584651
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

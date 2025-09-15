@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Laboratory experiment on chemical kinetics and the iodine clock reaction.
-file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/a9f7316465f30d02a9e5a59d2a1052d0_3_kinetics_2005b.pdf
+file: /ol-ocw-studio-app/courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/a9f7316465f30d02a9e5a59d2a1052d0_3_kinetics_2005b.pdf
+file_size: 668299
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

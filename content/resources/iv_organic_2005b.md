@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: Laboratory assignment on organic chemistry, polymers, and dyes.
-file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/2292f8db06dc2590458371b07627a568_IV_Organic_2005b.pdf
+file: /ol-ocw-studio-app/courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/2292f8db06dc2590458371b07627a568_IV_Organic_2005b.pdf
+file_size: 322427
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

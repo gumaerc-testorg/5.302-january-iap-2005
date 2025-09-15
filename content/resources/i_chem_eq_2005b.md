@@ -3,10 +3,11 @@ content_type: resource
 description: Laboratory experiment on chemical equilibrium, coordination chemistry,
   solubility equilibrium, equilibrium and temperature, and application of solubility
   and formation equilibria.
-file: /courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/0c5fa5f95f3da5daa34ff0281a107524_I_chem_eq_2005b.pdf
+file: /ol-ocw-studio-app/courses/5-302-introduction-to-experimental-chemistry-january-iap-2005/0c5fa5f95f3da5daa34ff0281a107524_I_chem_eq_2005b.pdf
+file_size: 506127
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
